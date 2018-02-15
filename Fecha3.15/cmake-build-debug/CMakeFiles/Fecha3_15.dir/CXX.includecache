@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Fecha3.15/Fecha.cpp
+Fecha.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Fecha3.15/Fecha.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Fecha3.15/Fecha.h
+iostream
+-
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Fecha3.15/main.cpp
+iostream
+-
+Fecha.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Fecha3.15/Fecha.h
+

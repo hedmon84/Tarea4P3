@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/CuentaBan.dir/main.cpp.o CMakeFiles/CuentaBan.dir/Cuenta.cpp.o  -o CuentaBan.exe -Wl,--out-implib,libCuentaBan.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

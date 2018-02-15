@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Factura3.13/Factura.cpp
+Factura.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Factura3.13/Factura.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Factura3.13/Factura.h
+string
+-
+iostream
+-
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Factura3.13/main.cpp
+iostream
+-
+Factura.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Factura3.13/Factura.h
+

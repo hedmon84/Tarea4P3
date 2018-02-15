@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Derivada.cpp
+Derivada.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Derivada.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Derivada.h
+Paquete.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Paquete.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Paquete.cpp
+Paquete.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Paquete.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Paquete.h
+string
+-
+iostream
+-
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/PaqueteNocturno.cpp
+PaqueteNocturno.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/PaqueteNocturno.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/PaqueteNocturno.h
+Paquete.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Paquete.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/main.cpp
+iostream
+-
+Paquete.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Paquete.h
+PaqueteNocturno.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/PaqueteNocturno.h
+Derivada.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/Tarea3 11.9/Derivada.h
+

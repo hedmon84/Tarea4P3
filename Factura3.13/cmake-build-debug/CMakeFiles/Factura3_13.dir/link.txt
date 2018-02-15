@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Factura3_13.dir/main.cpp.o CMakeFiles/Factura3_13.dir/Factura.cpp.o  -o Factura3_13.exe -Wl,--out-implib,libFactura3_13.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

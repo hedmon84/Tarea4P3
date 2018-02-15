@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/CuentaBan/Cuenta.cpp
+Cuenta.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/CuentaBan/Cuenta.h
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/CuentaBan/Cuenta.h
+iostream
+-
+
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/CuentaBan/main.cpp
+iostream
+-
+Cuenta.h
+/cygdrive/c/Users/Erick Nisbeth/CLionProjects/CuentaBan/Cuenta.h
+
